@@ -34,5 +34,23 @@
     "title": "test Product",
     "description": "This is my Product",
     "price": 100
+  },
+  {
+    "id": "70dcb2c4-5758-45c8-96c1-ac77c719918a",
+    "title": "test Product",
+    "description": "This is my Product",
+    "price": 100
+  },
+  {
+    "id": "1e86f346-4f14-4fab-b65f-26c65cb4af18",
+    "title": "test Product",
+    "description": "This is my Product",
+    "price": 100
+  },
+  {
+    "id": "2ef1d399-8e70-4e5d-b357-10275df55009",
+    "title": "ines chebil",
+    "description": "fhjbjbskcscvbnsxcn",
+    "price": 120
   }
 ]
